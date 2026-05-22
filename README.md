@@ -52,7 +52,7 @@ Credit-Card-Customer-Analytics/
 │   └── credit card analysis queries.sql
 │
 └── README.md
-
+```
 ---
 
 # Dashboard Pages

@@ -33,6 +33,10 @@ The project combines:
 ```text
 Credit-Card-Customer-Analytics/
 │
+├── Datasets/
+│   ├── Credit Card customers.csv
+│   ├── cleaned credit card customers.csv
+│
 ├── Images/
 │   ├── executive overview.png
 │   ├── executive overview male filter.png
